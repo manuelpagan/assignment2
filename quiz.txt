@@ -1,0 +1,53 @@
+# Manny Pagan
+# Sept 24th Python Course
+# Assignment 2
+# Due: Oct 3rd
+
+
+1. True
+2. False
+3. False
+4. True
+5. True ?
+
+6. In the following code block, what prints?
+
+```python
+a = True
+b = True
+c = False
+
+if a:
+    print("1")
+    PRINTS
+
+if b:
+    print("2")
+    PRINTS
+if c:
+    print("3")
+    DOES NOT PRINT
+
+if a and b:
+    print("4")
+    PRINTS
+
+if a and c:
+    print("5")
+    DOES NOT PRINT
+
+if b and c:
+    print("6")
+    DOES NOT PRINT
+
+if a or b:
+    print("7")
+    PRINTS
+
+if a or c:
+    print("8")
+    PRINTS
+
+if b or c:
+    print("9")
+    PRINTS
